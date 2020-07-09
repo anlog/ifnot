@@ -1,0 +1,8 @@
+*.i
+*.s
+*.o
+a.out
+
+main
+sched_yiled_test
+
